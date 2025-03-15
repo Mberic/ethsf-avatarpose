@@ -64,4 +64,4 @@ why prove from Cartesi:
 
 6. The NFT is a **gif/video** animation that uses the detected poses. The animation is created by moving an SVG image (avatar) using the poses. Here's a demo that uses detected poses to move an SVG character.
 
-[NFT](nft.mp4)
+See video file (nft.mp4) file in project root
