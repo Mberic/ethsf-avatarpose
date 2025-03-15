@@ -62,4 +62,6 @@ why prove from Cartesi:
 - [Cost](https://risczero.com/blog/on-chain-verification).
 - We're verifying on Cartesi and not a L1 because of proof size. We're dealing with proofs of about ~1MB. 
 
-6. The NFT is a **gif/video** animation that uses the detected poses. The animation is created by moving an SVG image (avatar) using the poses. Here's a example [web2 ML application](https://scroobly.com/) that uses detectd poses to move an SVG character (what you see here is how the NFT will look like).
+6. The NFT is a **gif/video** animation that uses the detected poses. The animation is created by moving an SVG image (avatar) using the poses. Here's a demo that uses detected poses to move an SVG character.
+
+[NFT](nft.mp4)
