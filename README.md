@@ -68,3 +68,8 @@ why prove from Cartesi:
 
 https://github.com/user-attachments/assets/2bcf4cea-85b1-4c61-a2d9-be683bd75a40
 
+## References
+
+1. [Pose estimation](https://www.tensorflow.org/lite/examples/pose_estimation/overview)    
+2. [Pose Animator by Shan Huang](https://github.com/yemount/pose-animator)     
+3. [Dog Pose estimation](https://github.com/ryanloney/dog-pose-estimation) 
