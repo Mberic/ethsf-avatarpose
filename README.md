@@ -87,7 +87,7 @@ The end deliverable is an **experiential gif/video** from the NFT metadata. That
 
 Here's a demo that uses detected poses to move an SVG character.
 
-https://github.com/user-attachments/assets/2bcf4cea-85b1-4c61-a2d9-be683bd75a40
+https://github.com/user-attachments/assets/af1c4af1-9f0a-451e-86c9-10f153bfe4d3
 
 
 ## Use cases
