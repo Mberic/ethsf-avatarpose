@@ -40,22 +40,20 @@ setup
 # generates proof.json
 prove
 ```
-3\. Our dapp backend then stores the following NFT metadata on IPFS:
+3\. Our dapp backend then stores the following NFT metadata:
 
 - `facial landmarks`   
 - `svg`  
 - `original video` (optionally encrypted before storage)  
-- Some extra info e.g. name of NFT 
+- Some extra info e.g., name of NFT 
 
-Now, we mint the experiential NFT and then send our data to [NFT.Storage](https://app.nft.storage/v1/docs/intro) for enduring preservation. **NFT.Storage** is a Filecoin service specifically designed for the long-term preservation of NFT data with a one-time payment ($2.99 per GB).
-
-This service requires us to upload a CSV that contains a list of token IDs and CIDs for our NFTs. 
+We then mint the experiential NFT.
 
 4\.  At the frontend, a user queries the detected `facial landmarks` plus `svg` avatar and uses these to generate an animation (**gif** or **video**). They can then list (or show off\!)  this animation on an NFT marketplace.
 
 **Notes:** 
 
-From the description above, you maybe wondering what the output is ( ie. what the NFT is). Here's a description that should help:
+From the description above, you may wonder what the output is ( i.e., what the NFT is). Here's a description that should help:
 
 The end deliverable is an **experiential gif/video** from the NFT metadata. That is:
 
