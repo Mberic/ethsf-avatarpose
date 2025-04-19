@@ -67,7 +67,7 @@ The end deliverable is an **experiential gif/video** from the NFT metadata. That
 
 ![sample-image](original.jpeg)
 
-2. We then apply edge detection and bit quantization to the frames
+2. We then apply edge detection to the frames
 
 ![edge-detected-image](image.jpeg)
 
